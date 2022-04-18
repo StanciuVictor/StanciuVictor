@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StanciuVictor
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NestJS
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - victor.stanciu@yahoo.com
 
 <!---
